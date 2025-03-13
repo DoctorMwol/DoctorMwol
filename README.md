@@ -7,7 +7,7 @@
 - My main language is [Python](https://pt.wikipedia.org/wiki/Python), but I can program [JavaScript](https://pt.wikipedia.org/wiki/JavaScript) and I'm learning [Java](https://en.wikipedia.org/wiki/Java_(programming_language))!
 
 ### My main technologies:
-  <p align="center">
+  <p align="left">
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
